@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm **Dawood Saeed**, a passionate Full Stack Java
 
 ## 🚀 Currently Working On
 
-I'm diving deep into a **news app** project at work—it's a multi-module system with intricate divisions. I've developed the web frontend using Angular, and it's live and loved by our clients. Now, I’m expanding our horizons with a Flutter mobile app version of the news app. Exciting times!
+I'm diving deep into a **news app** project at work—it's a multi-module system with intricate divisions. I had the responsiblity for developing web frontend using Angular and the lead the team as well, and it's live and loved by our clients. Now, I’m expanding our horizons with a Flutter mobile app version of the news app. 
 
 ## 🌱 Learning & Exploring
 
-Currently, I'm expanding my horizons by learning **Golang**. I'm delving into "For the Love of Go" and planning to tackle "Let's Go" next. If you have any tips, recommendations, or just want to chat about Go, feel free to reach out!
+Currently, I'm expanding my skill by learning **Golang**. I'm delving into "For the Love of Go" book and planning to tackle "Let's Go" book next. If you have any tips, recommendations, or just want to chat about Go, feel free to reach out!
 
 ## 👯‍♂️ Let's Collaborate
 
@@ -16,7 +16,7 @@ Looking for a skilled frontend developer with deep JavaScript knowledge? Let’s
 
 ## ⚡ Fun Fact
 
-I’m a **die-hard anime fan**, and **Naruto** holds a special place in my heart. The character development and storyline are absolutely mind-blowing. Believe me, nothing can beat the epic journey of Naruto!
+I’m a **die-hard anime fan**, and **Naruto** holds a special place in my heart. The character development and storyline are absolutely mind-blowing. Believe me, you won't see anything better then this.
 
 ## 📫 Get in Touch
 
