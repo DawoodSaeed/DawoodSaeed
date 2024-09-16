@@ -6,26 +6,15 @@ I'm a Javascript Full Stack Developer, and I am on my journey to become good at 
 From Higher order function, Closure, to Promise and prototype and continously improving my knowledge.
 
 
-### Find me
 
+- 📫 How to reach me: ...
 - <https://github.com/DawoodSaeed>
 - <https://www.linkedin.com/in/muhammad-dawood-saeed-956097216/https://www.cnblogs.com/weihanli>
 - <dawoodsaeed.studies@gmail.com>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DawoodSaeed&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodSaeed&theme=dark&layout=compact)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DawoodSaeed/DawoodSaeed/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DawoodSaeed/DawoodSaeed/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/DawoodSaeed/DawoodSaeed/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+- 🔭 I’m currently working on a news app at my workplace. Can't go in to the detail but it is super awesome. They are three modules and each modules have futher division. I have development web frontend of this in       angular and have been deployed and many of our clients are using it and they liked it every much and wanted a mobile app for it. So here I am working on the News App with flutter.
+  
+- 🌱 I’m currently learning golang and at the time reading this wonderful "for the love go" but that being said I do have experience in golang but I decided to read books since I like reading them after that I plan       to read "let's Go" since I don't have much experience in go I think these books will help me a lot. Any suggestion for me do reach out to me. Any advice would be apprecated.
+ 
+- 👯 I’m looking to collaborate on JavaScript Projects. If any of you need a good frontend developer with in-depth knowledge of JavaScript do hit me up. Got a project in mind mail me at dawoodsaeed.studies@gmail.com
+- ⚡ Fun fact: I am die heart anime fan especially Naruto. Nothing can beat this. The character development of Naruto anime and the story is mind boggling.  
